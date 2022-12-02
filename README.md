@@ -1,7 +1,7 @@
 # Hi i am Vincent, aka Neonize 👋
 
 - 👀 I’m interested in cloud development, automation and devops
-- 🌱 I’m currently learning typescript, go and for my AWS Solutions Architect Associate
+- 🌱 I’m currently learning typescript, go and for my AWS SysOps Administrator Certificate
 - 💞️ I’m looking to collaborate on open source projects in the future
 - 📫 How to reach me? Per mail, message or whatever you find about me.
 
