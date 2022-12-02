@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open source projects in the future
 - 📫 How to reach me? Per mail, message or whatever you find about me.
 
-[More info on my webpage](https://vmartens.de) Currently down 😶
+[More info on my webpage](https://vmartens.de)
 
 ---
 
