@@ -30,11 +30,11 @@ My work combines hands-on engineering with architecture, platform standards and 
 
 ## Tech stack
 
-**Languages:** TypeScript, Python, Go
-**Cloud:** AWS, Azure, GCP
-**Platform:** Kubernetes, GKE, Docker, Helm, Argo CD, Terraform
-**AI:** Azure OpenAI, Vertex AI, LangChain, LiteLLM, Langfuse, RAG
-**Delivery & Observability:** GitHub Actions, GitLab CI, Azure DevOps, Jenkins, Grafana, Prometheus
+**Languages:** TypeScript, Python, Go  
+**Cloud:** AWS, Azure, GCP  
+**Platform:** Kubernetes, GKE, Docker, Helm, Argo CD, Terraform  
+**AI:** Azure OpenAI, Vertex AI, LangChain, LiteLLM, Langfuse, RAG  
+**Delivery & Observability:** GitHub Actions, GitLab CI, Azure DevOps, Jenkins, Grafana, Prometheus  
 **Frontend & Backend:** React, Next.js, FastAPI, serverless architectures, APIs
 
 ## Selected areas of experience
